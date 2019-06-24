@@ -1,0 +1,15 @@
+Acinetobacter baumannii, carbapenem-resistant(ATCC 17978)
+Pseudomonas aeruginosa, carbapenem-resistant(UCBPP-PA14)
+Enterobacteriaceae, carbapenem-resistant, ESBL-producing(ENNIH2)
+
+Enterococcus faecium, vancomycin-resistant(ATCC 8459)
+Staphylococcus aureus, methicillin-resistant, vancomycin-intermediate and resistant(JH9)
+Helicobacter pylori, clarithromycin-resistant(26695)
+Campylobacter spp., fluoroquinolone-resistant(RM16704)
+Salmonellae, fluoroquinolone-resistant(ATCC9150)
+Neisseria gonorrhoeae, cephalosporin-resistant, fluoroquinolone-resistant(NCCP11945)
+
+Streptococcus pneumoniae, penicillin-non-susceptible(ATCC 700669)
+Haemophilus influenzae, ampicillin-resistant(CGSHiCZ412602)
+Shigella spp., fluoroquinolone-resistant(PAMC 28760)
+
