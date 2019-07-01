@@ -1,0 +1,125 @@
+SeqID: Alr 
+  Analysis Report:
+    CMSVM-            Unknown                       [No details]
+    CytoSVM-          Cytoplasmic                   [No details]
+    ECSVM-            Unknown                       [No details]
+    ModHMM-           Unknown                       [No internal helices found]
+    Motif-            Unknown                       [No motifs found]
+    OMPMotif-         Unknown                       [No motifs found]
+    OMSVM-            Unknown                       [No details]
+    PPSVM-            Unknown                       [No details]
+    Profile-          Unknown                       [No matches to profiles found]
+    SCL-BLAST-        Cytoplasmic                   [matched 2506172: Cytoplasmic protein]
+    SCL-BLASTe-       Unknown                       [No matches against database]
+    Signal-           Unknown                       [No signal peptide detected]
+  Localization Scores:
+    Cytoplasmic            9.97
+    Periplasmic            0.01
+    CytoplasmicMembrane    0.01
+    Extracellular          0.00
+    OuterMembrane          0.00
+  Final Prediction:
+    Cytoplasmic            9.97
+
+-------------------------------------------------------------------------------
+
+SeqID: ddl 
+  Analysis Report:
+    CMSVM-            Unknown                       [No details]
+    CytoSVM-          Cytoplasmic                   [No details]
+    ECSVM-            Unknown                       [No details]
+    ModHMM-           Unknown                       [No internal helices found]
+    Motif-            Unknown                       [No motifs found]
+    OMPMotif-         Unknown                       [No motifs found]
+    OMSVM-            Unknown                       [No details]
+    PPSVM-            Unknown                       [No details]
+    Profile-          Unknown                       [No matches to profiles found]
+    SCL-BLAST-        Cytoplasmic                   [matched 16128085: D-alanine:D-alanine ligase [Escherichia coli K12]]
+    SCL-BLASTe-       Unknown                       [No matches against database]
+    Signal-           Unknown                       [No signal peptide detected]
+  Localization Scores:
+    Cytoplasmic            9.97
+    Periplasmic            0.01
+    CytoplasmicMembrane    0.01
+    Extracellular          0.00
+    OuterMembrane          0.00
+  Final Prediction:
+    Cytoplasmic            9.97
+
+-------------------------------------------------------------------------------
+
+SeqID: murF 
+  Analysis Report:
+    CMSVM-            Unknown                       [No details]
+    CytoSVM-          Cytoplasmic                   [No details]
+    ECSVM-            Unknown                       [No details]
+    ModHMM-           Unknown                       [No internal helices found]
+    Motif-            Unknown                       [No motifs found]
+    OMPMotif-         Unknown                       [No motifs found]
+    OMSVM-            Unknown                       [No details]
+    PPSVM-            Unknown                       [No details]
+    Profile-          Unknown                       [No matches to profiles found]
+    SCL-BLAST-        Cytoplasmic                   [matched 2507071: Cytoplasmic protein]
+    SCL-BLASTe-       Unknown                       [No matches against database]
+    Signal-           Unknown                       [No signal peptide detected]
+  Localization Scores:
+    Cytoplasmic            9.97
+    Periplasmic            0.01
+    CytoplasmicMembrane    0.01
+    Extracellular          0.00
+    OuterMembrane          0.00
+  Final Prediction:
+    Cytoplasmic            9.97
+
+-------------------------------------------------------------------------------
+
+SeqID: mraY 
+  Analysis Report:
+    CMSVM-            CytoplasmicMembrane           [No details]
+    CytoSVM-          Unknown                       [No details]
+    ECSVM-            Unknown                       [No details]
+    ModHMM-           CytoplasmicMembrane           [10 internal helices found]
+    Motif-            Unknown                       [No motifs found]
+    OMPMotif-         Unknown                       [No motifs found]
+    OMSVM-            Unknown                       [No details]
+    PPSVM-            Unknown                       [No details]
+    Profile-          Unknown                       [No matches to profiles found]
+    SCL-BLAST-        CytoplasmicMembrane           [matched 61228257: Phospho-N-acetylmuramoyl-pentapeptide-transferase]
+    SCL-BLASTe-       CytoplasmicMembrane           [matched 100% 61228257: Phospho-N-acetylmuramoyl-pentapeptide-transferase]
+    Signal-           Unknown                       [No signal peptide detected]
+  Localization Scores:
+    CytoplasmicMembrane    10.00
+    Cytoplasmic            0.00
+    OuterMembrane          0.00
+    Periplasmic            0.00
+    Extracellular          0.00
+  Final Prediction:
+    CytoplasmicMembrane    10.00
+
+-------------------------------------------------------------------------------
+
+SeqID: MurG 
+  Analysis Report:
+    CMSVM-            CytoplasmicMembrane           [No details]
+    CytoSVM-          Unknown                       [No details]
+    ECSVM-            Unknown                       [No details]
+    ModHMM-           Unknown                       [No internal helices found]
+    Motif-            Unknown                       [No motifs found]
+    OMPMotif-         Unknown                       [No motifs found]
+    OMSVM-            Unknown                       [No details]
+    PPSVM-            Unknown                       [No details]
+    Profile-          Unknown                       [No matches to profiles found]
+    SCL-BLAST-        CytoplasmicMembrane           [matched 127540: UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase]
+    SCL-BLASTe-       Unknown                       [No matches against database]
+    Signal-           Unknown                       [No signal peptide detected]
+  Localization Scores:
+    CytoplasmicMembrane    10.00
+    Cytoplasmic            0.00
+    Periplasmic            0.00
+    OuterMembrane          0.00
+    Extracellular          0.00
+  Final Prediction:
+    CytoplasmicMembrane    10.00
+
+-------------------------------------------------------------------------------
+

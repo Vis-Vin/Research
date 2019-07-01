@@ -1,0 +1,165 @@
+# EptA TMH score=13.2858 margin=13.2274365
+# Cut-off=-3
+EptA	LipoP1.0:Best	TMH	1	1	13.2858
+EptA	LipoP1.0:Margin	TMH	1	1	13.2274365
+EptA	LipoP1.0:Class	SpII	1	1	0.0583635
+EptA	LipoP1.0:Class	CYT	1	1	-0.200913
+EptA	LipoP1.0:Class	SpI	1	1	-1.09356
+EptA	LipoP1.0:Signal	CleavII	26	27	0.0583635	# FYISI|CLNIA Pos+2=L
+
+
+
+
+# AcrA SpII score=19.636 margin=11.10411 cleavage=24-25 Pos+2=D
+# Cut-off=-3
+AcrA	LipoP1.0:Best	SpII	1	1	19.636
+AcrA	LipoP1.0:Margin	SpII	1	1	11.10411
+AcrA	LipoP1.0:Class	SpI	1	1	8.53189
+AcrA	LipoP1.0:Class	CYT	1	1	-0.200913
+AcrA	LipoP1.0:Signal	CleavII	24	25	19.636	# LALTG|CDDKQ Pos+2=D
+AcrA	LipoP1.0:Signal	CleavI	21	22	7.88606	# SGSLA|LTGCD
+AcrA	LipoP1.0:Signal	CleavI	24	25	6.78071	# LALTG|CDDKQ
+AcrA	LipoP1.0:Signal	CleavI	22	23	3.85847	# GSLAL|TGCDD
+AcrA	LipoP1.0:Signal	CleavI	23	24	1.76264	# SLALT|GCDDK
+AcrA	LipoP1.0:Signal	CleavI	30	31	0.977535	# DDKQA|QQGGQ
+AcrA	LipoP1.0:Signal	CleavI	20	21	0.359117	# LSGSL|ALTGC
+AcrA	LipoP1.0:Signal	CleavI	26	27	-0.061748	# LTGCD|DKQAQ
+AcrA	LipoP1.0:Signal	CleavI	28	29	-0.150526	# GCDDK|QAQQG
+AcrA	LipoP1.0:Signal	CleavI	25	26	-1.71736	# ALTGC|DDKQA
+AcrA	LipoP1.0:Signal	CleavI	27	28	-2.17448	# TGCDD|KQAQQ
+
+
+
+
+# AcrB TMH score=4.86972 margin=5.070633
+# Cut-off=-3
+AcrB	LipoP1.0:Best	TMH	1	1	4.86972
+AcrB	LipoP1.0:Margin	TMH	1	1	5.070633
+AcrB	LipoP1.0:Class	CYT	1	1	-0.200913
+AcrB	LipoP1.0:Class	SpI	1	1	-0.939563
+AcrB	LipoP1.0:Signal	CleavI	28	29	-2.37481	# GLAIL|KLPVA
+AcrB	LipoP1.0:Signal	CleavI	26	27	-2.92924	# AGGLA|ILKLP
+
+
+
+
+# lpxA CYT score=-0.200913
+# Cut-off=-3
+lpxA	LipoP1.0:Best	CYT	1	1	-0.200913
+
+
+
+
+# amiA SpI score=16.7574 margin=16.958313 cleavage=34-35
+# Cut-off=-3
+amiA	LipoP1.0:Best	SpI	1	1	16.7574
+amiA	LipoP1.0:Margin	SpI	1	1	16.958313
+amiA	LipoP1.0:Class	CYT	1	1	-0.200913
+amiA	LipoP1.0:Signal	CleavI	34	35	16.7158	# SQAIA|KDEPL
+amiA	LipoP1.0:Signal	CleavI	32	33	11.5243	# GMSQA|IAKDE
+amiA	LipoP1.0:Signal	CleavI	35	36	7.52118	# QAIAK|DEPLK
+amiA	LipoP1.0:Signal	CleavI	30	31	3.78296	# LSGMS|QAIAK
+amiA	LipoP1.0:Signal	CleavI	36	37	2.30587	# AIAKD|EPLKT
+amiA	LipoP1.0:Signal	CleavI	33	34	0.220366	# MSQAI|AKDEP
+
+
+
+
+# amiC SpI score=16.7574 margin=16.958313 cleavage=34-35
+# Cut-off=-3
+amiC	LipoP1.0:Best	SpI	1	1	16.7574
+amiC	LipoP1.0:Margin	SpI	1	1	16.958313
+amiC	LipoP1.0:Class	CYT	1	1	-0.200913
+amiC	LipoP1.0:Signal	CleavI	34	35	16.7158	# SQAIA|KDEPL
+amiC	LipoP1.0:Signal	CleavI	32	33	11.5243	# GMSQA|IAKDE
+amiC	LipoP1.0:Signal	CleavI	35	36	7.52118	# QAIAK|DEPLK
+amiC	LipoP1.0:Signal	CleavI	30	31	3.78296	# LSGMS|QAIAK
+amiC	LipoP1.0:Signal	CleavI	36	37	2.30587	# AIAKD|EPLKT
+amiC	LipoP1.0:Signal	CleavI	33	34	0.220366	# MSQAI|AKDEP
+
+
+
+
+# degP SpI score=28.1373 margin=27.245228 cleavage=26-27
+# Cut-off=-3
+degP	LipoP1.0:Best	SpI	1	1	28.1373
+degP	LipoP1.0:Margin	SpI	1	1	27.245228
+degP	LipoP1.0:Class	TMH	1	1	0.892072
+degP	LipoP1.0:Class	CYT	1	1	-0.200913
+degP	LipoP1.0:Signal	CleavI	26	27	28.1331	# LSATA|AETSS
+degP	LipoP1.0:Signal	CleavI	23	24	18.2039	# LSPLS|ATAAE
+degP	LipoP1.0:Signal	CleavI	24	25	17.6807	# SPLSA|TAAET
+degP	LipoP1.0:Signal	CleavI	27	28	17.5605	# SATAA|ETSSA
+degP	LipoP1.0:Signal	CleavI	25	26	17.073	# PLSAT|AAETS
+degP	LipoP1.0:Signal	CleavI	28	29	13.437	# ATAAE|TSSAT
+degP	LipoP1.0:Signal	CleavI	29	30	12.0987	# TAAET|SSATT
+degP	LipoP1.0:Signal	CleavI	32	33	10.7359	# ETSSA|TTAQQ
+degP	LipoP1.0:Signal	CleavI	31	32	9.60513	# AETSS|ATTAQ
+degP	LipoP1.0:Signal	CleavI	21	22	8.1304	# LALSP|LSATA
+degP	LipoP1.0:Signal	CleavI	19	20	7.94721	# LGLAL|SPLSA
+degP	LipoP1.0:Signal	CleavI	20	21	7.5595	# GLALS|PLSAT
+degP	LipoP1.0:Signal	CleavI	35	36	7.36734	# SATTA|QQMPS
+degP	LipoP1.0:Signal	CleavI	18	19	7.13298	# SLGLA|LSPLS
+degP	LipoP1.0:Signal	CleavI	34	35	6.29445	# SSATT|AQQMP
+degP	LipoP1.0:Signal	CleavI	30	31	5.98689	# AAETS|SATTA
+degP	LipoP1.0:Signal	CleavI	22	23	3.79723	# ALSPL|SATAA
+degP	LipoP1.0:Signal	CleavI	17	18	1.78897	# LSLGL|ALSPL
+degP	LipoP1.0:Signal	CleavI	33	34	0.0629503	# TSSAT|TAQQM
+degP	LipoP1.0:Signal	CleavI	16	17	-1.11496	# ALSLG|LALSP
+degP	LipoP1.0:Signal	CleavI	37	38	-1.99348	# TTAQQ|MPSLA
+degP	LipoP1.0:Signal	CleavI	36	37	-1.99524	# ATTAQ|QMPSL
+degP	LipoP1.0:Signal	CleavI	14	15	-2.76519	# ALALS|LGLAL
+
+
+
+
+# dsbA SpI score=16.7987 margin=16.999613 cleavage=19-20
+# Cut-off=-3
+dsbA	LipoP1.0:Best	SpI	1	1	16.7987
+dsbA	LipoP1.0:Margin	SpI	1	1	16.999613
+dsbA	LipoP1.0:Class	CYT	1	1	-0.200913
+dsbA	LipoP1.0:Signal	CleavI	19	20	16.6199	# FSASA|AQYED
+dsbA	LipoP1.0:Signal	CleavI	22	23	12.9437	# SAAQY|EDGKQ
+dsbA	LipoP1.0:Signal	CleavI	21	22	12.0665	# ASAAQ|YEDGK
+dsbA	LipoP1.0:Signal	CleavI	20	21	10.0408	# SASAA|QYEDG
+dsbA	LipoP1.0:Signal	CleavI	23	24	5.77388	# AAQYE|DGKQY
+dsbA	LipoP1.0:Signal	CleavI	25	26	3.13791	# QYEDG|KQYTT
+dsbA	LipoP1.0:Signal	CleavI	18	19	1.26818	# AFSAS|AAQYE
+dsbA	LipoP1.0:Signal	CleavI	16	17	0.382003	# VLAFS|ASAAQ
+dsbA	LipoP1.0:Signal	CleavI	17	18	-0.177813	# LAFSA|SAAQY
+dsbA	LipoP1.0:Signal	CleavI	14	15	-1.15223	# GLVLA|FSASA
+dsbA	LipoP1.0:Signal	CleavI	24	25	-2.69073	# AQYED|GKQYT
+
+
+
+
+# ppiA SpI score=23.2898 margin=23.490713 cleavage=27-28
+# Cut-off=-3
+ppiA	LipoP1.0:Best	SpI	1	1	23.2898
+ppiA	LipoP1.0:Margin	SpI	1	1	23.490713
+ppiA	LipoP1.0:Class	CYT	1	1	-0.200913
+ppiA	LipoP1.0:Class	TMH	1	1	-1.28663
+ppiA	LipoP1.0:Signal	CleavI	27	28	23.272	# PAAMA|AKGDP
+ppiA	LipoP1.0:Signal	CleavI	24	25	15.4923	# ALSPA|AMAAK
+ppiA	LipoP1.0:Signal	CleavI	19	20	15.0054	# LSALS|ALSPA
+ppiA	LipoP1.0:Signal	CleavI	25	26	14.7145	# LSPAA|MAAKG
+ppiA	LipoP1.0:Signal	CleavI	26	27	12.9104	# SPAAM|AAKGD
+ppiA	LipoP1.0:Signal	CleavI	22	23	12.0807	# LSALS|PAAMA
+ppiA	LipoP1.0:Signal	CleavI	28	29	11.2293	# AAMAA|KGDPH
+ppiA	LipoP1.0:Signal	CleavI	29	30	10.8701	# AMAAK|GDPHV
+ppiA	LipoP1.0:Signal	CleavI	30	31	10.2831	# MAAKG|DPHVL
+ppiA	LipoP1.0:Signal	CleavI	21	22	9.87574	# ALSAL|SPAAM
+ppiA	LipoP1.0:Signal	CleavI	20	21	9.57263	# SALSA|LSPAA
+ppiA	LipoP1.0:Signal	CleavI	23	24	9.07023	# SALSP|AAMAA
+ppiA	LipoP1.0:Signal	CleavI	16	17	5.53935	# VFALS|ALSAL
+ppiA	LipoP1.0:Signal	CleavI	17	18	4.69766	# FALSA|LSALS
+ppiA	LipoP1.0:Signal	CleavI	14	15	3.31904	# AAVFA|LSALS
+ppiA	LipoP1.0:Signal	CleavI	18	19	1.17153	# ALSAL|SALSP
+ppiA	LipoP1.0:Signal	CleavI	32	33	-0.0841087	# AKGDP|HVLLT
+
+
+
+
+# marA CYT score=-0.200913
+# Cut-off=-3
+marA	LipoP1.0:Best	CYT	1	1	-0.200913

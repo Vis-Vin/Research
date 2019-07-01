@@ -1,0 +1,225 @@
+SeqID: MurA 
+  Analysis Report:
+    CMSVM-            Unknown                       [No details]
+    CytoSVM-          Cytoplasmic                   [No details]
+    ECSVM-            Unknown                       [No details]
+    ModHMM-           Unknown                       [No internal helices found]
+    Motif-            Unknown                       [No motifs found]
+    OMPMotif-         Unknown                       [No motifs found]
+    OMSVM-            Unknown                       [No details]
+    PPSVM-            Unknown                       [No details]
+    Profile-          Unknown                       [No matches to profiles found]
+    SCL-BLAST-        Cytoplasmic                   [matched 15599646: UDP-N-acetylglucosamine 1-carboxyvinyltransferase[Pseudomonas aeruginosa PAO1]]
+    SCL-BLASTe-       Unknown                       [No matches against database]
+    Signal-           Unknown                       [No signal peptide detected]
+  Localization Scores:
+    Cytoplasmic            9.97
+    Periplasmic            0.01
+    CytoplasmicMembrane    0.01
+    Extracellular          0.00
+    OuterMembrane          0.00
+  Final Prediction:
+    Cytoplasmic            9.97
+
+-------------------------------------------------------------------------------
+
+SeqID: MurB 
+  Analysis Report:
+    CMSVM-            Unknown                       [No details]
+    CytoSVM-          Cytoplasmic                   [No details]
+    ECSVM-            Unknown                       [No details]
+    ModHMM-           Unknown                       [No internal helices found]
+    Motif-            Unknown                       [No motifs found]
+    OMPMotif-         Unknown                       [No motifs found]
+    OMSVM-            Unknown                       [No details]
+    PPSVM-            Unknown                       [No details]
+    Profile-          Unknown                       [No matches to profiles found]
+    SCL-BLAST-        Cytoplasmic                   [matched 15598173: UDP-N-acetylpyruvoylglucosamine reductase[Pseudomonas aeruginosa PAO1]]
+    SCL-BLASTe-       Unknown                       [No matches against database]
+    Signal-           Unknown                       [No signal peptide detected]
+  Localization Scores:
+    Cytoplasmic            9.97
+    Periplasmic            0.01
+    CytoplasmicMembrane    0.01
+    Extracellular          0.00
+    OuterMembrane          0.00
+  Final Prediction:
+    Cytoplasmic            9.97
+
+-------------------------------------------------------------------------------
+
+SeqID: MurC 
+  Analysis Report:
+    CMSVM-            Unknown                       [No details]
+    CytoSVM-          Cytoplasmic                   [No details]
+    ECSVM-            Unknown                       [No details]
+    ModHMM-           Unknown                       [No internal helices found]
+    Motif-            Unknown                       [No motifs found]
+    OMPMotif-         Unknown                       [No motifs found]
+    OMSVM-            Unknown                       [No details]
+    PPSVM-            Unknown                       [No details]
+    Profile-          Unknown                       [No matches to profiles found]
+    SCL-BLAST-        Cytoplasmic                   [matched 15599215: UDP-N-acetylmuramate:L-alanyl-gamma-D-glutamyl-meso- diaminopimelate ligase[Pseudomonas aeruginosa PAO1]]
+    SCL-BLASTe-       Unknown                       [No matches against database]
+    Signal-           Unknown                       [No signal peptide detected]
+  Localization Scores:
+    Cytoplasmic            9.97
+    Periplasmic            0.01
+    CytoplasmicMembrane    0.01
+    Extracellular          0.00
+    OuterMembrane          0.00
+  Final Prediction:
+    Cytoplasmic            9.97
+
+-------------------------------------------------------------------------------
+
+SeqID: MurD 
+  Analysis Report:
+    CMSVM-            Unknown                       [No details]
+    CytoSVM-          Cytoplasmic                   [No details]
+    ECSVM-            Unknown                       [No details]
+    ModHMM-           Unknown                       [1 internal helix found]
+    Motif-            Unknown                       [No motifs found]
+    OMPMotif-         Unknown                       [No motifs found]
+    OMSVM-            Unknown                       [No details]
+    PPSVM-            Unknown                       [No details]
+    Profile-          Unknown                       [No matches to profiles found]
+    SCL-BLAST-        Cytoplasmic                   [matched 127537: UDP-N-acetylmuramoylalanine--D-glutamate ligase]
+    SCL-BLASTe-       Unknown                       [No matches against database]
+    Signal-           Non-Cytoplasmic               [Signal peptide detected]
+  Localization Scores:
+    Periplasmic            4.99
+    CytoplasmicMembrane    4.90
+    Extracellular          0.10
+    OuterMembrane          0.00
+    Cytoplasmic            0.00
+  Final Prediction:
+    Unknown (This protein may have multiple localization sites.)
+
+-------------------------------------------------------------------------------
+
+SeqID: MurE 
+  Analysis Report:
+    CMSVM-            Unknown                       [No details]
+    CytoSVM-          Cytoplasmic                   [No details]
+    ECSVM-            Unknown                       [No details]
+    ModHMM-           Unknown                       [No internal helices found]
+    Motif-            Unknown                       [No motifs found]
+    OMPMotif-         Unknown                       [No motifs found]
+    OMSVM-            Unknown                       [No details]
+    PPSVM-            Unknown                       [No details]
+    Profile-          Unknown                       [No matches to profiles found]
+    SCL-BLAST-        Unknown                       [No matches against database]
+    SCL-BLASTe-       Unknown                       [No matches against database]
+    Signal-           Unknown                       [No signal peptide detected]
+  Localization Scores:
+    Cytoplasmic            8.96
+    CytoplasmicMembrane    0.51
+    Periplasmic            0.26
+    Extracellular          0.26
+    OuterMembrane          0.01
+  Final Prediction:
+    Cytoplasmic            8.96
+
+-------------------------------------------------------------------------------
+
+SeqID: MurF 
+  Analysis Report:
+    CMSVM-            Unknown                       [No details]
+    CytoSVM-          Cytoplasmic                   [No details]
+    ECSVM-            Unknown                       [No details]
+    ModHMM-           Unknown                       [No internal helices found]
+    Motif-            Unknown                       [No motifs found]
+    OMPMotif-         Unknown                       [No motifs found]
+    OMSVM-            Unknown                       [No details]
+    PPSVM-            Unknown                       [No details]
+    Profile-          Unknown                       [No matches to profiles found]
+    SCL-BLAST-        Cytoplasmic                   [matched 2507071: Cytoplasmic protein]
+    SCL-BLASTe-       Unknown                       [No matches against database]
+    Signal-           Unknown                       [No signal peptide detected]
+  Localization Scores:
+    Cytoplasmic            9.97
+    Periplasmic            0.01
+    CytoplasmicMembrane    0.01
+    Extracellular          0.00
+    OuterMembrane          0.00
+  Final Prediction:
+    Cytoplasmic            9.97
+
+-------------------------------------------------------------------------------
+
+SeqID: MraY 
+  Analysis Report:
+    CMSVM-            CytoplasmicMembrane           [No details]
+    CytoSVM-          Unknown                       [No details]
+    ECSVM-            Unknown                       [No details]
+    ModHMM-           CytoplasmicMembrane           [10 internal helices found]
+    Motif-            Unknown                       [No motifs found]
+    OMPMotif-         Unknown                       [No motifs found]
+    OMSVM-            Unknown                       [No details]
+    PPSVM-            Unknown                       [No details]
+    Profile-          Unknown                       [No matches to profiles found]
+    SCL-BLAST-        CytoplasmicMembrane           [matched 61228257: Phospho-N-acetylmuramoyl-pentapeptide-transferase]
+    SCL-BLASTe-       CytoplasmicMembrane           [matched 100% 61228257: Phospho-N-acetylmuramoyl-pentapeptide-transferase]
+    Signal-           Unknown                       [No signal peptide detected]
+  Localization Scores:
+    CytoplasmicMembrane    10.00
+    Cytoplasmic            0.00
+    OuterMembrane          0.00
+    Periplasmic            0.00
+    Extracellular          0.00
+  Final Prediction:
+    CytoplasmicMembrane    10.00
+
+-------------------------------------------------------------------------------
+
+SeqID: MurG 
+  Analysis Report:
+    CMSVM-            CytoplasmicMembrane           [No details]
+    CytoSVM-          Unknown                       [No details]
+    ECSVM-            Unknown                       [No details]
+    ModHMM-           Unknown                       [No internal helices found]
+    Motif-            Unknown                       [No motifs found]
+    OMPMotif-         Unknown                       [No motifs found]
+    OMSVM-            Unknown                       [No details]
+    PPSVM-            Unknown                       [No details]
+    Profile-          Unknown                       [No matches to profiles found]
+    SCL-BLAST-        CytoplasmicMembrane           [matched 127540: UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase]
+    SCL-BLASTe-       Unknown                       [No matches against database]
+    Signal-           Unknown                       [No signal peptide detected]
+  Localization Scores:
+    CytoplasmicMembrane    10.00
+    Cytoplasmic            0.00
+    Periplasmic            0.00
+    OuterMembrane          0.00
+    Extracellular          0.00
+  Final Prediction:
+    CytoplasmicMembrane    10.00
+
+-------------------------------------------------------------------------------
+
+SeqID: ClassPBF_mrcB 
+  Analysis Report:
+    CMSVM-            CytoplasmicMembrane           [No details]
+    CytoSVM-          Unknown                       [No details]
+    ECSVM-            Unknown                       [No details]
+    ModHMM-           Unknown                       [1 internal helix found]
+    Motif-            Unknown                       [No motifs found]
+    OMPMotif-         Unknown                       [No motifs found]
+    OMSVM-            Unknown                       [No details]
+    PPSVM-            Unknown                       [No details]
+    Profile-          Unknown                       [No matches to profiles found]
+    SCL-BLAST-        CytoplasmicMembrane           [matched 33112644: Penicillin-binding protein 1B]
+    SCL-BLASTe-       Unknown                       [No matches against database]
+    Signal-           Unknown                       [No signal peptide detected]
+  Localization Scores:
+    CytoplasmicMembrane    10.00
+    Cytoplasmic            0.00
+    Periplasmic            0.00
+    OuterMembrane          0.00
+    Extracellular          0.00
+  Final Prediction:
+    CytoplasmicMembrane    10.00
+
+-------------------------------------------------------------------------------
+

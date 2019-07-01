@@ -1,0 +1,162 @@
+SeqID: MurA
+	CELLO prediction:
+			(predictor 	location  	reliable-index)
+			Composition	Cytoplasmic	0.995
+			Di-peptide	Cytoplasmic	0.746
+			part-Comp.	Cytoplasmic	0.985
+			chemo-typy	Periplasmic	0.602
+			Neighboring	Cytoplasmic	0.852
+
+	Combined SVM classifier:
+					Extracellular	0.041
+					OuterMembrane	0.267
+					Periplasmic	0.723
+					InnerMembrane	0.195
+					Cytoplasmic	3.774 *
+
+
+*********************************************************************************
+SeqID: MurB
+	CELLO prediction:
+			(predictor 	location  	reliable-index)
+			Composition	Cytoplasmic	0.835
+			Di-peptide	Cytoplasmic	0.504
+			part-Comp.	Cytoplasmic	0.928
+			chemo-typy	Periplasmic	0.542
+			Neighboring	Cytoplasmic	0.837
+
+	Combined SVM classifier:
+					Extracellular	0.066
+					OuterMembrane	0.237
+					Periplasmic	1.185
+					InnerMembrane	0.217
+					Cytoplasmic	3.295 *
+
+
+*********************************************************************************
+SeqID: MurC
+	CELLO prediction:
+			(predictor 	location  	reliable-index)
+			Composition	Cytoplasmic	0.987
+			Di-peptide	Cytoplasmic	0.773
+			part-Comp.	Cytoplasmic	0.854
+			chemo-typy	Cytoplasmic	0.821
+			Neighboring	Cytoplasmic	0.947
+
+	Combined SVM classifier:
+					Extracellular	0.019
+					OuterMembrane	0.021
+					Periplasmic	0.259
+					InnerMembrane	0.317
+					Cytoplasmic	4.383 *
+
+
+*********************************************************************************
+SeqID: MurD
+	CELLO prediction:
+			(predictor 	location  	reliable-index)
+			Composition	Cytoplasmic	0.969
+			Di-peptide	Cytoplasmic	0.944
+			part-Comp.	Cytoplasmic	0.960
+			chemo-typy	Cytoplasmic	0.906
+			Neighboring	Cytoplasmic	0.965
+
+	Combined SVM classifier:
+					Extracellular	0.023
+					OuterMembrane	0.053
+					Periplasmic	0.123
+					InnerMembrane	0.059
+					Cytoplasmic	4.743 *
+
+
+*********************************************************************************
+SeqID: MurE
+	CELLO prediction:
+			(predictor 	location  	reliable-index)
+			Composition	Cytoplasmic	0.997
+			Di-peptide	Cytoplasmic	0.743
+			part-Comp.	Cytoplasmic	0.986
+			chemo-typy	InnerMembrane	0.456
+			Neighboring	Cytoplasmic	0.875
+
+	Combined SVM classifier:
+					Extracellular	0.026
+					OuterMembrane	0.062
+					Periplasmic	0.600
+					InnerMembrane	0.513
+					Cytoplasmic	3.799 *
+
+
+*********************************************************************************
+SeqID: MurF
+	CELLO prediction:
+			(predictor 	location  	reliable-index)
+			Composition	Cytoplasmic	0.943
+			Di-peptide	Cytoplasmic	0.909
+			part-Comp.	Cytoplasmic	0.962
+			chemo-typy	Cytoplasmic	0.886
+			Neighboring	Cytoplasmic	0.933
+
+	Combined SVM classifier:
+					Extracellular	0.043
+					OuterMembrane	0.051
+					Periplasmic	0.143
+					InnerMembrane	0.129
+					Cytoplasmic	4.634 *
+
+
+*********************************************************************************
+SeqID: MraY
+	CELLO prediction:
+			(predictor 	location  	reliable-index)
+			Composition	InnerMembrane	0.998
+			Di-peptide	InnerMembrane	1.000
+			part-Comp.	InnerMembrane	0.998
+			chemo-typy	InnerMembrane	0.995
+			Neighboring	InnerMembrane	1.000
+
+	Combined SVM classifier:
+					Extracellular	0.001
+					OuterMembrane	0.001
+					Periplasmic	0.002
+					InnerMembrane	4.991 *
+					Cytoplasmic	0.005
+
+
+*********************************************************************************
+SeqID: MurG
+	CELLO prediction:
+			(predictor 	location  	reliable-index)
+			Composition	Cytoplasmic	0.687
+			Di-peptide	Periplasmic	0.413
+			part-Comp.	InnerMembrane	0.830
+			chemo-typy	Cytoplasmic	0.800
+			Neighboring	InnerMembrane	0.834
+
+	Combined SVM classifier:
+					Extracellular	0.064
+					OuterMembrane	0.024
+					Periplasmic	0.563
+					InnerMembrane	2.340 *
+					Cytoplasmic	2.008 *
+
+
+*********************************************************************************
+SeqID: ClassPBF_mrcB
+	CELLO prediction:
+			(predictor 	location  	reliable-index)
+			Composition	Periplasmic	0.984
+			Di-peptide	InnerMembrane	0.712
+			part-Comp.	InnerMembrane	0.682
+			chemo-typy	OuterMembrane	0.435
+			Neighboring	Periplasmic	0.594
+
+	Combined SVM classifier:
+					Extracellular	0.202
+					OuterMembrane	0.755
+					Periplasmic	1.888 *
+					InnerMembrane	1.951 *
+					Cytoplasmic	0.205
+
+
+*********************************************************************************

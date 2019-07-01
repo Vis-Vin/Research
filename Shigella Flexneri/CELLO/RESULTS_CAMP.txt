@@ -1,0 +1,180 @@
+SeqID: EptA
+	CELLO prediction:
+			(predictor 	location  	reliable-index)
+			Composition	InnerMembrane	0.613
+			Di-peptide	InnerMembrane	0.811
+			part-Comp.	InnerMembrane	0.480
+			chemo-typy	InnerMembrane	0.867
+			Neighboring	InnerMembrane	0.926
+
+	Combined SVM classifier:
+					Extracellular	0.102
+					OuterMembrane	0.362
+					Periplasmic	0.417
+					InnerMembrane	3.697 *
+					Cytoplasmic	0.423
+
+
+*********************************************************************************
+SeqID: AcrA
+	CELLO prediction:
+			(predictor 	location  	reliable-index)
+			Composition	OuterMembrane	0.761
+			Di-peptide	Periplasmic	0.781
+			part-Comp.	OuterMembrane	0.875
+			chemo-typy	OuterMembrane	0.674
+			Neighboring	Periplasmic	0.742
+
+	Combined SVM classifier:
+					Extracellular	0.454
+					OuterMembrane	2.477 *
+					Periplasmic	1.918 *
+					InnerMembrane	0.073
+					Cytoplasmic	0.078
+
+
+*********************************************************************************
+SeqID: AcrB
+	CELLO prediction:
+			(predictor 	location  	reliable-index)
+			Composition	InnerMembrane	0.999
+			Di-peptide	InnerMembrane	0.960
+			part-Comp.	InnerMembrane	0.995
+			chemo-typy	InnerMembrane	0.855
+			Neighboring	InnerMembrane	0.992
+
+	Combined SVM classifier:
+					Extracellular	0.045
+					OuterMembrane	0.065
+					Periplasmic	0.045
+					InnerMembrane	4.802 *
+					Cytoplasmic	0.043
+
+
+*********************************************************************************
+SeqID: lpxA
+	CELLO prediction:
+			(predictor 	location  	reliable-index)
+			Composition	Cytoplasmic	0.936
+			Di-peptide	Cytoplasmic	0.968
+			part-Comp.	Cytoplasmic	0.987
+			chemo-typy	OuterMembrane	0.471
+			Neighboring	Cytoplasmic	0.850
+
+	Combined SVM classifier:
+					Extracellular	0.079
+					OuterMembrane	0.482
+					Periplasmic	0.419
+					InnerMembrane	0.090
+					Cytoplasmic	3.930 *
+
+
+*********************************************************************************
+SeqID: amiA
+	CELLO prediction:
+			(predictor 	location  	reliable-index)
+			Composition	Periplasmic	0.538
+			Di-peptide	Periplasmic	0.606
+			part-Comp.	Cytoplasmic	0.727
+			chemo-typy	Cytoplasmic	0.616
+			Neighboring	Extracellular	0.355
+
+	Combined SVM classifier:
+					Extracellular	0.616
+					OuterMembrane	0.452
+					Periplasmic	1.899 *
+					InnerMembrane	0.193
+					Cytoplasmic	1.840 *
+
+
+*********************************************************************************
+SeqID: amiC
+	CELLO prediction:
+			(predictor 	location  	reliable-index)
+			Composition	Periplasmic	0.538
+			Di-peptide	Periplasmic	0.606
+			part-Comp.	Cytoplasmic	0.727
+			chemo-typy	Cytoplasmic	0.616
+			Neighboring	Extracellular	0.355
+
+	Combined SVM classifier:
+					Extracellular	0.616
+					OuterMembrane	0.452
+					Periplasmic	1.899 *
+					InnerMembrane	0.193
+					Cytoplasmic	1.840 *
+
+
+*********************************************************************************
+SeqID: degP
+	CELLO prediction:
+			(predictor 	location  	reliable-index)
+			Composition	Periplasmic	0.727
+			Di-peptide	Periplasmic	0.522
+			part-Comp.	Periplasmic	0.964
+			chemo-typy	Extracellular	0.607
+			Neighboring	Periplasmic	0.782
+
+	Combined SVM classifier:
+					Extracellular	1.005
+					OuterMembrane	0.679
+					Periplasmic	3.215 *
+					InnerMembrane	0.067
+					Cytoplasmic	0.033
+
+
+*********************************************************************************
+SeqID: dsbA
+	CELLO prediction:
+			(predictor 	location  	reliable-index)
+			Composition	Periplasmic	0.979
+			Di-peptide	Periplasmic	0.922
+			part-Comp.	Periplasmic	0.996
+			chemo-typy	Periplasmic	0.942
+			Neighboring	Periplasmic	0.945
+
+	Combined SVM classifier:
+					Extracellular	0.071
+					OuterMembrane	0.026
+					Periplasmic	4.785 *
+					InnerMembrane	0.056
+					Cytoplasmic	0.063
+
+
+*********************************************************************************
+SeqID: ppiA
+	CELLO prediction:
+			(predictor 	location  	reliable-index)
+			Composition	Periplasmic	0.979
+			Di-peptide	Periplasmic	0.932
+			part-Comp.	Periplasmic	0.954
+			chemo-typy	Periplasmic	0.898
+			Neighboring	Periplasmic	0.967
+
+	Combined SVM classifier:
+					Extracellular	0.112
+					OuterMembrane	0.052
+					Periplasmic	4.730 *
+					InnerMembrane	0.071
+					Cytoplasmic	0.035
+
+
+*********************************************************************************
+SeqID: marA
+	CELLO prediction:
+			(predictor 	location  	reliable-index)
+			Composition	Cytoplasmic	0.463
+			Di-peptide	Cytoplasmic	0.688
+			part-Comp.	Extracellular	0.352
+			chemo-typy	Cytoplasmic	0.525
+			Neighboring	OuterMembrane	0.371
+
+	Combined SVM classifier:
+					Extracellular	0.757
+					OuterMembrane	0.683
+					Periplasmic	1.013
+					InnerMembrane	0.208
+					Cytoplasmic	2.338 *
+
+
+*********************************************************************************

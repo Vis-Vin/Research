@@ -1,0 +1,37 @@
+# Alr CYT score=-0.200913
+# Cut-off=-3
+Alr	LipoP1.0:Best	CYT	1	1	-0.200913
+
+
+
+
+# ddl CYT score=-0.200913
+# Cut-off=-3
+ddl	LipoP1.0:Best	CYT	1	1	-0.200913
+
+
+
+
+# murF CYT score=-0.200913
+# Cut-off=-3
+murF	LipoP1.0:Best	CYT	1	1	-0.200913
+
+
+
+
+# mraY CYT score=-0.200913 margin=0.526122
+# Cut-off=-3
+mraY	LipoP1.0:Best	CYT	1	1	-0.200913
+mraY	LipoP1.0:Margin	CYT	1	1	0.526122
+mraY	LipoP1.0:Class	TMH	1	1	-0.727035
+
+
+
+
+# MurG TMH score=4.19916 margin=4.400073
+# Cut-off=-3
+MurG	LipoP1.0:Best	TMH	1	1	4.19916
+MurG	LipoP1.0:Margin	TMH	1	1	4.400073
+MurG	LipoP1.0:Class	CYT	1	1	-0.200913
+
+
